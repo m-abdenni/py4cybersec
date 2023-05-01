@@ -2,6 +2,9 @@
 
 This repository contains Python scripts that can be used for penetration testing purposes. These scripts cover various areas, including hash cracking, keylogging, enumeration, scanning, and more. It's worth noting that these scripts are intended for educational purposes only and should not be used for any malicious activities.
 
+> Note: This repository is a work in progress and more improvements to the scripts will be added soon.
+
+
 ## Scripts
 
 | Script Name | Link |
